@@ -1,2 +1,2 @@
-# GaiserChan.github.io
-GaiserChan Homepage
+# Gaiserchen.github.io
+Gaiserchen Homepage
